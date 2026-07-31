@@ -10,9 +10,9 @@ redirect_from:
 
 ## About {#about-heading}
 
-I am a Ph.D. student at the University of Bordeaux, supervised by [Romain Giot](https://www.labri.fr/perso/rgiot/). I'm working in the [Bench to Knowledge and Beyond (BKB)](https://www.labri.fr/en/bench-knowledge-and-beyond) team at Laboratoire Bordelais de Recherche en Informatique (LaBRI) in Bordeaux, France.
+I am a Ph.D. student at the University of Bordeaux, supervised by [Romain Giot](https://www.labri.fr/perso/rgiot/). I'm working in the [Bench to Knowledge and Beyond (BKB)](https://www.labri.fr/en/bench-knowledge-and-beyond) team at [Laboratoire Bordelais de Recherche en Informatique (LaBRI)](https://www.labri.fr/en) in Bordeaux, France.
 
-My research interest is explainable artificial intelligence (XAI), particularly in biometrics. I focus on two biometric modalities: Face Recognition (physiological biometric) and Keystroke Dynamics (behavioral biometric).
+My research interest is Explainable Artificial Intelligence (XAI), particularly in Biometrics. I focus on two biometric modalities: Face Recognition (Physiological biometric) and Keystroke Dynamics (Behavioral biometric).
 
 You can reach me at [boyu.zhu@u-bordeaux.fr](mailto:boyu.zhu@u-bordeaux.fr).
 
@@ -24,15 +24,15 @@ You can reach me at [boyu.zhu@u-bordeaux.fr](mailto:boyu.zhu@u-bordeaux.fr).
 
 ### Explainable AI
 
-Deep learning is now widely used, but its decisions often remain a black box. Explainable AI (XAI) aims to understand how these models work. XAI includes post-hoc explanations and models that are interpretable by design. My research focuses on post-hoc methods, especially the faithfulness of explanations produced by methods such as SHAP and Grad-CAM.
+Deep learning is now widely used, but its decisions often remain a black box. Explainable AI (XAI) aims to understand how these models work. XAI includes post-hoc explanations and models that are interpretable by design. My research focuses on post-hoc methods, such as SHAP and Grad-CAM, and on combining XAI with visualization methods.
 
 Explanations can be global or local. Global explanations describe the overall behavior of a model, while local explanations explain a single prediction. I study the development of both approaches and how they can be combined.
 
 ### Biometrics
 
-Biometrics verifies a person's identity using physical or behavioral traits. Deep learning is now widely used in this field. My research focuses on one-to-one biometric verification, especially face recognition as a physical biometric and keystroke dynamics as a behavioral biometric.
+Biometrics verifies a person's identity using physical or behavioral traits. My research focuses on one-to-one biometric verification, especially face recognition as a physical biometric and keystroke dynamics as a behavioral biometric.
 
-Explainable biometric verification can make biometric systems more trustworthy. It can help researchers find bias and understand why verification fails. It can also make these systems more transparent to users.
+Deep learning has improved the accuracy of biometric systems, but its decisions remain a black box. Explainable biometric verification can make these systems more trustworthy. It can help researchers find bias and understand why verification fails. It can also make biometric systems more transparent to users.
 
 </section>
 
