@@ -23,5 +23,8 @@ main:
   - title: "Experience"
     url: "/#experience"
 
+  - title: "Supervision & Teaching"
+    url: "/#supervision-teaching"
+
   - title: "CV"
     url: "/#cv"

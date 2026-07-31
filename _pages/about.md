@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Boyu Zhu"
 author_profile: true
 redirect_from:
   - /about/
@@ -11,7 +10,9 @@ redirect_from:
 
 ## About {#about-heading}
 
-I am a Ph.D. student at the University of Bordeaux. My research interests include biometrics and explainable artificial intelligence.
+I am a Ph.D. student at the University of Bordeaux, supervised by [Romain Giot](https://www.labri.fr/perso/rgiot/). I work within the [Bench to Knowledge and Beyond (BKB)](https://www.labri.fr/en/bench-knowledge-and-beyond) team at Laboratoire Bordelais de Recherche en Informatique (LaBRI) in Bordeaux, France.
+
+My research interest is explainable artificial intelligence (XAI), particularly in biometrics. I focus on two biometric modalities: Face Recognition (physiological biometric) and Keystroke Dynamics (behavioral biometric).
 
 You can reach me at [boyu.zhu@u-bordeaux.fr](mailto:boyu.zhu@u-bordeaux.fr).
 
@@ -47,6 +48,18 @@ Research area: Biometrics and Explainable AI
 ## Experience {#experience-heading}
 
 Research and professional experience will be added here.
+
+</section>
+
+<section id="supervision-teaching" class="home-section" markdown="1">
+
+## Supervision and Teaching {#supervision-teaching-heading}
+
+### Master's Student Supervision
+
+**[Dorsaf Ziedi](https://www.linkedin.com/in/ziedi-dorsaf/)** — February 2026–August 2026<br>
+Research subject: *Explainable Evaluation of Biometrics for Bias Discovery*<br>
+Co-supervised with [Romain Giot](https://www.labri.fr/perso/rgiot/).
 
 </section>
 
