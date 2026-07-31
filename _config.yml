@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "Boyu Zhu"
+locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Boyu Zhu"
 title_separator          : "-"
@@ -30,7 +30,7 @@ author:
   location         : "Talence, Bordeaux, France"
   employer         : "University of Bordeaux"
   uri              : # URL
-  email            : 
+  email            : "boyu.zhu@u-bordeaux.fr"
 
   # Academic websites
   academia         : # URL

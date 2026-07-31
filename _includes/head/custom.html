@@ -19,4 +19,27 @@
 <link rel="icon" href="/images/favicon.ico"/>
 <meta name="theme-color" content="var(--global-bg-color)"/>
 
+<!-- Single-page navigation -->
+<style>
+  html {
+    scroll-behavior: smooth;
+  }
+
+  .home-section {
+    padding-top: 1.25rem;
+    scroll-margin-top: 5.5rem;
+  }
+
+  .home-section + .home-section {
+    margin-top: 1.5rem;
+    border-top: 1px solid var(--global-border-color);
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+  }
+</style>
+
 <!-- end custom head snippets -->
