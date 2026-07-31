@@ -1,0 +1,22 @@
+{% include base_path %}
+<article class="publication-row">
+  {% if post.header.teaser %}
+    <div class="publication-row__image">
+      <img src="{{ post.header.teaser | prepend: '/images/' | prepend: base_path }}" alt="Visual preview for {{ post.title | escape }}" loading="lazy">
+    </div>
+  {% endif %}
+
+  <div class="publication-row__content">
+    <h3 class="publication-row__title">{{ post.title }}</h3>
+
+    <p class="publication-row__authors">
+      {% for author in post.authors %}{% if author.highlight %}<strong>{{ author.name }}</strong>{% else %}{{ author.name }}{% endif %}{% unless forloop.last %}, {% endunless %}{% endfor %}
+    </p>
+
+    <p class="publication-row__venue"><em>{{ post.venue }}</em>, {{ post.location }}, {{ post.date | date: "%Y" }}</p>
+
+    <p class="publication-row__links">
+      <a href="{{ post.paperurl }}">PDF</a>{% if post.githuburl %}<span aria-hidden="true"> · </span><a href="{{ post.githuburl }}">GitHub</a>{% endif %}
+    </p>
+  </div>
+</article>

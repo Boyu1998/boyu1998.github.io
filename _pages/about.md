@@ -30,29 +30,57 @@ My research focuses on trustworthy and explainable methods for biometric systems
 
 ## Publications {#publications-heading}
 
-<div class="grid__wrapper home-publications">
+<div class="home-publications">
 {% assign publications = site.publications | sort: "date" | reverse %}
 {% for post in publications %}
-  {% include archive-single.html type="grid" %}
+  {% include publication-row.html %}
 {% endfor %}
 </div>
 
 </section>
 
-<section id="education" class="home-section" markdown="1">
+<section id="cv" class="home-section" markdown="1">
 
-## Education {#education-heading}
+## CV {#cv-heading}
 
-**Ph.D. student**, University of Bordeaux, France<br>
-Research area: Biometrics and Explainable AI
+### Education
 
-</section>
+**Ph.D. in Biometrics and Explainability of Artificial Intelligence** · 2024–Present<br>
+University of Bordeaux, Talence, France
 
-<section id="experience" class="home-section" markdown="1">
+**Master's Degree in Data Science** · 2020–2023<br>
+Paris-Saclay University, Orsay, France
 
-## Experience {#experience-heading}
+**Bachelor's Degree in Computer Science** · 2019–2020<br>
+Paris-Saclay University, Orsay, France
 
-Research and professional experience will be added here.
+**University Diploma of Technology (DUT) in Computer Science** · 2017–2019<br>
+Paris Cité University, Paris, France
+
+### Experience
+
+**Ph.D. Student** · 2024–Present<br>
+LaBRI, University of Bordeaux — Talence, France
+
+- Supervisor: [Romain Giot](https://www.labri.fr/perso/rgiot/), Associate Professor at the University of Bordeaux
+- Research topic: *Beyond Explainability and Evaluation Standards: A Better Understanding of Biometric Authentication*
+- Analyzing evaluation protocols, performance metrics, and global and local explainability methods for biometric authentication, with a focus on keystroke dynamics and face recognition.
+
+**Research Assistant Intern** · 2024<br>
+IBISC Laboratory, Paris-Saclay University — Évry, France
+
+- Supervisor: Blaise Hanczar, Full Professor at Paris-Saclay University
+- Research topic: *Transformers in Precision Medicine*
+- Applied Transformer models to phenotype prediction from omics data and investigated model variants to balance computational cost, training time, and prediction accuracy.
+
+**Research Assistant Intern** · 2023<br>
+DAVID Laboratory, Paris-Saclay University — Versailles, France
+
+- Supervisor: Mustapha Lebbah, Full Professor at Paris-Saclay University
+- Research topic: *Attention-based Missing Value Imputation*
+- Investigated a Transformer-based method for improving prediction accuracy on datasets with missing values and implemented models using Keras and TensorFlow.
+
+[Download my full CV (PDF)](/files/Research_CV_Boyu_Zhu_2026_EN.pdf).
 
 </section>
 
@@ -65,13 +93,5 @@ Research and professional experience will be added here.
 **[Dorsaf Ziedi](https://www.linkedin.com/in/ziedi-dorsaf/)** — February 2026–August 2026<br>
 Research subject: *Explainable Evaluation of Biometrics for Bias Discovery*<br>
 Co-supervised with [Romain Giot](https://www.labri.fr/perso/rgiot/).
-
-</section>
-
-<section id="cv" class="home-section" markdown="1">
-
-## CV {#cv-heading}
-
-My full curriculum vitae will be available here soon. For current academic information, see my [Google Scholar](https://scholar.google.com/citations?user=ovoM8_EAAAAJ&hl=en), [ORCID](https://orcid.org/0009-0007-0844-5599), and [LinkedIn](https://www.linkedin.com/in/boyuzhu98/) profiles.
 
 </section>
