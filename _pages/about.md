@@ -30,7 +30,12 @@ My research focuses on trustworthy and explainable methods for biometric systems
 
 ## Publications {#publications-heading}
 
-Publication details are being updated. In the meantime, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=ovoM8_EAAAAJ&hl=en) or [ORCID record](https://orcid.org/0009-0007-0844-5599).
+<div class="grid__wrapper home-publications">
+{% assign publications = site.publications | sort: "date" | reverse %}
+{% for post in publications %}
+  {% include archive-single.html type="grid" %}
+{% endfor %}
+</div>
 
 </section>
 
