@@ -45,40 +45,21 @@ My research focuses on trustworthy and explainable methods for biometric systems
 
 ### Education
 
-**Ph.D. in Biometrics and Explainability of Artificial Intelligence** · 2024–Present<br>
-University of Bordeaux, Talence, France
+**Master's Degree in Data Science**, Paris-Saclay University · 2023
 
-**Master's Degree in Data Science** · 2020–2023<br>
-Paris-Saclay University, Orsay, France
-
-**Bachelor's Degree in Computer Science** · 2019–2020<br>
-Paris-Saclay University, Orsay, France
-
-**University Diploma of Technology (DUT) in Computer Science** · 2017–2019<br>
-Paris Cité University, Paris, France
+**Bachelor's Degree in Computer Science**, Paris-Saclay University · 2020
 
 ### Experience
-
-**Ph.D. Student** · 2024–Present<br>
-LaBRI, University of Bordeaux — Talence, France
-
-- Supervisor: [Romain Giot](https://www.labri.fr/perso/rgiot/), Associate Professor at the University of Bordeaux
-- Research topic: *Beyond Explainability and Evaluation Standards: A Better Understanding of Biometric Authentication*
-- Analyzing evaluation protocols, performance metrics, and global and local explainability methods for biometric authentication, with a focus on keystroke dynamics and face recognition.
 
 **Research Assistant Intern** · 2024<br>
 IBISC Laboratory, Paris-Saclay University — Évry, France
 
-- Supervisor: Blaise Hanczar, Full Professor at Paris-Saclay University
-- Research topic: *Transformers in Precision Medicine*
-- Applied Transformer models to phenotype prediction from omics data and investigated model variants to balance computational cost, training time, and prediction accuracy.
+Research topic: *Transformers in Precision Medicine*
 
 **Research Assistant Intern** · 2023<br>
 DAVID Laboratory, Paris-Saclay University — Versailles, France
 
-- Supervisor: Mustapha Lebbah, Full Professor at Paris-Saclay University
-- Research topic: *Attention-based Missing Value Imputation*
-- Investigated a Transformer-based method for improving prediction accuracy on datasets with missing values and implemented models using Keras and TensorFlow.
+Research topic: *Attention-based Missing Value Imputation*
 
 [Download my full CV (PDF)](/files/Research_CV_Boyu_Zhu_2026_EN.pdf).
 
