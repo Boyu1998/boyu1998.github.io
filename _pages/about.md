@@ -8,7 +8,7 @@ redirect_from:
 
 <section id="about" class="home-section" markdown="1">
 
-## About {#about-heading}
+# About {#about-heading}
 
 I am a Ph.D. student at the University of Bordeaux, supervised by [Romain Giot](https://www.labri.fr/perso/rgiot/). I'm working in the [Bench to Knowledge and Beyond (BKB)](https://www.labri.fr/en/bench-knowledge-and-beyond) team at [Laboratoire Bordelais de Recherche en Informatique (LaBRI)](https://www.labri.fr/en) in Bordeaux, France.
 
@@ -20,15 +20,15 @@ You can reach me at [boyu.zhu@u-bordeaux.fr](mailto:boyu.zhu@u-bordeaux.fr).
 
 <section id="research" class="home-section" markdown="1">
 
-## Research {#research-heading}
+# Research {#research-heading}
 
-### Explainable AI
+## Explainable AI
 
 Deep learning is now widely used, but its decisions often remain a black box. Explainable AI (XAI) aims to understand how these models work. XAI includes post-hoc explanations and models that are interpretable by design. My research focuses on post-hoc methods, such as SHAP and Grad-CAM, and on combining XAI with visualization methods.
 
 Explanations can be global or local. Global explanations describe the overall behavior of a model, while local explanations explain a single prediction. I study the development of both approaches and how they can be combined.
 
-### Biometrics
+## Biometrics
 
 Biometrics verifies a person's identity using physical or behavioral traits. My research focuses on one-to-one biometric verification, especially face recognition as a physical biometric and keystroke dynamics as a behavioral biometric.
 
@@ -38,7 +38,7 @@ Deep learning has improved the accuracy of biometric systems, but its decisions 
 
 <section id="publications" class="home-section" markdown="1">
 
-## Publications {#publications-heading}
+# Publications {#publications-heading}
 
 <div class="home-publications">
 {% assign publications = site.publications | sort: "date" | reverse %}
@@ -51,14 +51,14 @@ Deep learning has improved the accuracy of biometric systems, but its decisions 
 
 <section id="cv" class="home-section" markdown="1">
 
-## CV {#cv-heading}
+# CV {#cv-heading}
 
-### Education
+## Education
 
 - **Master's Degree in Data Science**, Paris-Saclay University · 2023
 - **Bachelor's Degree in Computer Science**, Paris-Saclay University · 2020
 
-### Experience
+## Experience
 
 - **Research Assistant Intern**, IBISC Laboratory, Paris-Saclay University · 2024
   - Topic: *Transformers in Precision Medicine*
@@ -71,9 +71,9 @@ Deep learning has improved the accuracy of biometric systems, but its decisions 
 
 <section id="supervision-teaching" class="home-section" markdown="1">
 
-## Supervision and Teaching {#supervision-teaching-heading}
+# Supervision and Teaching {#supervision-teaching-heading}
 
-### Master's Student Supervision
+## Master's Student Supervision
 
 **[Dorsaf Ziedi](https://www.linkedin.com/in/ziedi-dorsaf/)** — February 2026–August 2026<br>
 Research subject: *Explainable Evaluation of Biometrics for Bias Discovery*<br>
