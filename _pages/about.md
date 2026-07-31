@@ -10,7 +10,7 @@ redirect_from:
 
 ## About {#about-heading}
 
-I am a Ph.D. student at the University of Bordeaux, supervised by [Romain Giot](https://www.labri.fr/perso/rgiot/). I work within the [Bench to Knowledge and Beyond (BKB)](https://www.labri.fr/en/bench-knowledge-and-beyond) team at Laboratoire Bordelais de Recherche en Informatique (LaBRI) in Bordeaux, France.
+I am a Ph.D. student at the University of Bordeaux, supervised by [Romain Giot](https://www.labri.fr/perso/rgiot/). I'm working in the [Bench to Knowledge and Beyond (BKB)](https://www.labri.fr/en/bench-knowledge-and-beyond) team at Laboratoire Bordelais de Recherche en Informatique (LaBRI) in Bordeaux, France.
 
 My research interest is explainable artificial intelligence (XAI), particularly in biometrics. I focus on two biometric modalities: Face Recognition (physiological biometric) and Keystroke Dynamics (behavioral biometric).
 
@@ -45,21 +45,15 @@ My research focuses on trustworthy and explainable methods for biometric systems
 
 ### Education
 
-**Master's Degree in Data Science**, Paris-Saclay University · 2023
-
-**Bachelor's Degree in Computer Science**, Paris-Saclay University · 2020
+- **Master's Degree in Data Science**, Paris-Saclay University · 2023
+- **Bachelor's Degree in Computer Science**, Paris-Saclay University · 2020
 
 ### Experience
 
-**Research Assistant Intern** · 2024<br>
-IBISC Laboratory, Paris-Saclay University — Évry, France
-
-Research topic: *Transformers in Precision Medicine*
-
-**Research Assistant Intern** · 2023<br>
-DAVID Laboratory, Paris-Saclay University — Versailles, France
-
-Research topic: *Attention-based Missing Value Imputation*
+- **Research Assistant Intern**, IBISC Laboratory, Paris-Saclay University — Évry, France · 2024
+  - Research topic: *Transformers in Precision Medicine*
+- **Research Assistant Intern**, DAVID Laboratory, Paris-Saclay University — Versailles, France · 2023
+  - Research topic: *Attention-based Missing Value Imputation*
 
 [Download my full CV (PDF)](/files/Research_CV_Boyu_Zhu_2026_EN.pdf).
 
