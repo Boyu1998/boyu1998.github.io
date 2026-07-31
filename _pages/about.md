@@ -14,7 +14,7 @@ I am a Ph.D. student at the University of Bordeaux, supervised by [Romain Giot](
 
 My research interest is Explainable Artificial Intelligence (XAI), particularly in Biometrics. I focus on two biometric modalities: Face Recognition (Physiological biometric) and Keystroke Dynamics (Behavioral biometric).
 
-You can reach me at [boyu.zhu@u-bordeaux.fr](mailto:boyu.zhu@u-bordeaux.fr).
+You can reach me at [boyu.zhu@u-bordeaux.fr](mailto:boyu.zhu@u-bordeaux.fr), and my thesis information is available on [theses.fr](https://theses.fr/s402855) (en, fr).
 
 </section>
 
