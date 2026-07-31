@@ -10,7 +10,7 @@ redirect_from:
 
 # About {#about-heading}
 
-I am a Ph.D. student at the University of Bordeaux, supervised by [Romain Giot](https://www.labri.fr/perso/rgiot/). I'm working in the [Bench to Knowledge and Beyond (BKB)](https://www.labri.fr/en/bench-knowledge-and-beyond) team at [Laboratoire Bordelais de Recherche en Informatique (LaBRI)](https://www.labri.fr/en) in Bordeaux, France.
+I am a Ph.D. student at the University of Bordeaux, supervised by [Romain Giot](https://www.labri.fr/perso/rgiot/). I'm working in the [Bench to Knowledge and Beyond (BKB)](https://www.labri.fr/en/bench-knowledge-and-beyond) team at [Laboratoire Bordelais de Recherche en Informatique (LaBRI)](https://www.labri.fr/en) in Talence, France.
 
 My research interest is Explainable Artificial Intelligence (XAI), particularly in Biometrics. I focus on two biometric modalities: Face Recognition (Physiological biometric) and Keystroke Dynamics (Behavioral biometric).
 
