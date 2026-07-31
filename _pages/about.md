@@ -22,7 +22,17 @@ You can reach me at [boyu.zhu@u-bordeaux.fr](mailto:boyu.zhu@u-bordeaux.fr).
 
 ## Research {#research-heading}
 
-My research focuses on trustworthy and explainable methods for biometric systems, with an emphasis on understanding model decisions and improving their reliability.
+### Explainable AI
+
+Deep learning is now widely used, but its decisions often remain a black box. Explainable AI (XAI) aims to understand how these models work. XAI includes post-hoc explanations and models that are interpretable by design. My research focuses on post-hoc methods, especially the faithfulness of explanations produced by methods such as SHAP and Grad-CAM.
+
+Explanations can be global or local. Global explanations describe the overall behavior of a model, while local explanations explain a single prediction. I study the development of both approaches and how they can be combined.
+
+### Biometrics
+
+Biometrics verifies a person's identity using physical or behavioral traits. Deep learning is now widely used in this field. My research focuses on one-to-one biometric verification, especially face recognition as a physical biometric and keystroke dynamics as a behavioral biometric.
+
+Explainable biometric verification can make biometric systems more trustworthy. It can help researchers find bias and understand why verification fails. It can also make these systems more transparent to users.
 
 </section>
 
@@ -50,10 +60,10 @@ My research focuses on trustworthy and explainable methods for biometric systems
 
 ### Experience
 
-- **Research Assistant Intern**, IBISC Laboratory, Paris-Saclay University — Évry, France · 2024
-  - Research topic: *Transformers in Precision Medicine*
-- **Research Assistant Intern**, DAVID Laboratory, Paris-Saclay University — Versailles, France · 2023
-  - Research topic: *Attention-based Missing Value Imputation*
+- **Research Assistant Intern**, IBISC Laboratory, Paris-Saclay University · 2024
+  - Topic: *Transformers in Precision Medicine*
+- **Research Assistant Intern**, DAVID Laboratory, Paris-Saclay University · 2023
+  - Topic: *Attention-based Missing Value Imputation*
 
 [Download my full CV (PDF)](/files/Research_CV_Boyu_Zhu_2026_EN.pdf).
 
